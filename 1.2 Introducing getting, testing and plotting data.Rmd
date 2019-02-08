@@ -79,7 +79,7 @@ Add those three lines into the chunk above, then run the chunk.
 Now let's look at some summary statistics:
 
 ```{r}
-# Means
+ #Means
 #colMeans(heights)
 
 colMeans(heights[,c(-1,-4)])
